@@ -28,6 +28,9 @@ This project developed for the United Airlines SkyHack 2.0 hackathon, focuses on
 ## AHT Distribution Per Agent
 ![AHT Distribution Per Agent](https://github.com/user-attachments/assets/af4b340a-74be-42c4-9e6a-165a32f77f7d)
 
+## Distribution of AST by Agent
+![Distribution of AST by Agent](https://github.com/user-attachments/assets/85a17d7d-69ea-4d85-87db-8a761a759e73)
+
 
 
 
