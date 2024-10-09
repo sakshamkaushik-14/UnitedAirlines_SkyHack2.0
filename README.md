@@ -9,6 +9,7 @@ This project developed for the United Airlines SkyHack 2.0 hackathon, focuses on
 - sentiment_statistics.csv: Includes sentiment scores and silence percentages for each call.
 
 ## Presentation link 
+https://drive.google.com/file/d/1E4Ho6DYzpaFanBNF6Ro5xjmLxPje03F5/view?usp=sharing
 
 ## Sentiment Analysis and Call Handling
 ![Sentiment Analysis and Call Handling](https://github.com/user-attachments/assets/ad870bcd-0ff1-409e-94d4-24e25e967378)
